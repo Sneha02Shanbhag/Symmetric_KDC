@@ -37,9 +37,9 @@ KDC-Symmetric-Key-Distribution/
 - │
 - ├── requirements.txt
 - └── src/
-  ├── main.py
-  ├── kdc.py
-  └── client.py
+  - ├── main.py
+  - ├── kdc.py
+  - └── client.py
 
 ---
 
@@ -52,7 +52,7 @@ cd KDC-Symmetric-Key-Distribution
 
 ## 📦 Install Dependencies
 
-pip install customtkinter cryptography
+- pip install customtkinter cryptography
 ---
 
 ## ▶️ Run the Project
