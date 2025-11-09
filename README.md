@@ -34,12 +34,12 @@ Session key (`K_s`) is encrypted and exchanged using **pre-shared master keys**.
 ## 📁 Folder Structure
 
 KDC-Symmetric-Key-Distribution/
--│
--├── requirements.txt
--└── src/
-├── main.py
-├── kdc.py
-└── client.py
+- │
+- ├── requirements.txt
+- └── src/
+  ├── main.py
+  ├── kdc.py
+  └── client.py
 
 ---
 
@@ -56,8 +56,8 @@ pip install customtkinter cryptography
 ---
 
 ## ▶️ Run the Project
--cd src
--python main.py
+- cd src
+- python main.py
 
 
 
